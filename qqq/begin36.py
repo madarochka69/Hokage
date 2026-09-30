@@ -1,6 +1,0 @@
-v1 = float(input("скорость первого авто:"))
-v2 = float(input("скорость второго авто:"))
-S = float(input("Расстояние:"))
-T = float(input("время:"))
-dist = T * (v1 + v2) + S
-print(f"Дистанция = {dist}")

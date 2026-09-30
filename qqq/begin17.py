@@ -1,9 +1,0 @@
-a = float(input("Введите первую точку:"))
-b = float(input("Введите второю точку:"))
-c = float(input("Введите третью точку:"))
-ac = abs(a - c)
-bc = abs(b - c)
-sum = ac + bc
-print(f"Длина отрезка AC = {ac}")
-print(f"Длина отрезка BC = {bc}")
-print(f"Сумма отрезков = {sum}")
